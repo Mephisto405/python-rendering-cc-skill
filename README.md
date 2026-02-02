@@ -12,7 +12,7 @@ Python 3D 렌더링 라이브러리(nvdiffrast, PyTorch3D, pyrender, trimesh, Op
 
 ```bash
 git clone https://github.com/Mephisto405/python-rendering-cc-skill.git
-claude --plugin-dir ./python-rendering-guide
+claude --plugin-dir ./python-rendering-cc-skill
 ```
 
 ## Usage
@@ -35,7 +35,7 @@ claude --plugin-dir ./python-rendering-guide
 ## Contents
 
 ```
-python-rendering-guide/
+python-rendering-cc-skill/
 ├── .claude-plugin/
 │   └── plugin.json
 ├── skills/
