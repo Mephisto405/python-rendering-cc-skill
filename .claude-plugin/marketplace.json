@@ -1,0 +1,14 @@
+{
+  "name": "mephisto405-plugins",
+  "owner": {
+    "name": "Mephisto405",
+    "url": "https://github.com/Mephisto405"
+  },
+  "plugins": [
+    {
+      "name": "python-rendering",
+      "source": "./",
+      "description": "Python 3D rendering guide for nvdiffrast, PyTorch3D, pyrender, trimesh, Open3D. Covers coordinate systems, camera setup, texture rendering, and environment configuration."
+    }
+  ]
+}
